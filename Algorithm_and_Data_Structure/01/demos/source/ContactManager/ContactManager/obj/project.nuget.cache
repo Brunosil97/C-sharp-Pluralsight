@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AUcz7IDy5EfTbAykEuWX9Ki0ehLUOjSOELWQexvFVAR+i4+5Vo/4zFvSO0fVOyIH9A/2AFZyZTFeTbCg+yowFg==",
+  "success": true,
+  "projectFilePath": "C:\\PluralSight\\Algorithm_and_Data_Structure\\01\\demos\\source\\ContactManager\\ContactManager\\ContactManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

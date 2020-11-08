@@ -1,0 +1,12 @@
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.deps.json
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.dll
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.pdb
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\DataStructures.dll
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\DataStructures.pdb
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csprojAssemblyReference.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.AssemblyInfoInputs.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.AssemblyInfo.cs
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csproj.CopyComplete
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.dll
+C:\PluralSight\Algorithm_and_Data_Structure\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.pdb

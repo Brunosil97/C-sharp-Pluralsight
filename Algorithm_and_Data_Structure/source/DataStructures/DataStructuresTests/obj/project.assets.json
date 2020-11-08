@@ -6894,31 +6894,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/robert/.nuget/packages/": {}
+    "C:\\Users\\bruno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/robert/Projects/ADS1/DataStructures/DataStructuresTests/DataStructuresTests.csproj",
+      "projectUniqueName": "C:\\PluralSight\\Algorithm_and_Data_Structure\\source\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
       "projectName": "DataStructuresTests",
-      "projectPath": "/Users/robert/Projects/ADS1/DataStructures/DataStructuresTests/DataStructuresTests.csproj",
-      "packagesPath": "/Users/robert/.nuget/packages/",
-      "outputPath": "/Users/robert/Projects/ADS1/DataStructures/DataStructuresTests/obj/",
+      "projectPath": "C:\\PluralSight\\Algorithm_and_Data_Structure\\source\\DataStructures\\DataStructuresTests\\DataStructuresTests.csproj",
+      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+      "outputPath": "C:\\PluralSight\\Algorithm_and_Data_Structure\\source\\DataStructures\\DataStructuresTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/robert/.config/NuGet/NuGet.Config"
+        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/robert/Projects/ADS1/DataStructures/DataStructures/DataStructures.csproj": {
-              "projectPath": "/Users/robert/Projects/ADS1/DataStructures/DataStructures/DataStructures.csproj"
+            "C:\\PluralSight\\Algorithm_and_Data_Structure\\source\\DataStructures\\DataStructures\\DataStructures.csproj": {
+              "projectPath": "C:\\PluralSight\\Algorithm_and_Data_Structure\\source\\DataStructures\\DataStructures\\DataStructures.csproj"
             }
           }
         }
@@ -6964,7 +6966,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

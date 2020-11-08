@@ -1,0 +1,9 @@
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.deps.json
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.dll
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.pdb
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.csprojAssemblyReference.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.AssemblyInfoInputs.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.AssemblyInfo.cs
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.csproj.CoreCompileInputs.cache
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.dll
+C:\PluralSight\Algorithm_and_Data_Structure\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.pdb
