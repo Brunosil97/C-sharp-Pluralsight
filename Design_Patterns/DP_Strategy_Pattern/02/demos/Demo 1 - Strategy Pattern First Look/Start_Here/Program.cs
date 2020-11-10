@@ -20,13 +20,16 @@ namespace Strategy_Pattern_First_Look
             var destination = order.ShippingDetails.DestinationCountry.ToLowerInvariant();
 
             //SET the interface to new instance of the tax classes
-            if(destination == "sweden") { order.SalesTaxStrategy = new SweedenSalesTaxStrategy(); }
-            else if(destination == "us") { order.SalesTaxStrategy = new USAStateSalesTaxStrategy(); }
+           // if(destination == "sweden") { order.SalesTaxStrategy = new SweedenSalesTaxStrategy(); }
+           // else if(destination == "us") { order.SalesTaxStrategy = new USAStateSalesTaxStrategy(); }
+
+            //Alternately
             
             order.LineItems.Add(new Item("CSHARP_SMORGASBORD", "C# Smorgasbord", 100m, ItemType.Literature), 1);
             order.LineItems.Add(new Item("CONSULTING", "Building a website", 100m, ItemType.Service), 1);
 
-            Console.WriteLine(order.GetTax());
+            //pass into tax method
+            Console.WriteLine(order.GetTax(new SweedenSalesTaxStrategy()));
         }
     }
 }

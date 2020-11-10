@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuZoE98aOtFXBTkbhxNUQK8akTt5oAiG19zP9/T13ZW5rvu5dxwDeXY7EtxAOWgK+SKMRBnvyoei3B/2PzIPlA==",
+  "success": true,
+  "projectFilePath": "C:\\PluralSight\\Design_Patterns\\DP_Strategy_Pattern\\02\\demos\\Demo 3 - Creating an invoice\\Start_Here\\Strategy Pattern Creating an invoice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
