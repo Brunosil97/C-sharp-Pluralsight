@@ -7,6 +7,7 @@ namespace Strategy_Pattern_First_Look.Business.Strategies.SalesTax
 {
     public class SweedenSalesTaxStrategy : ISalesTaxStrategy
     {
+        //implemented GetTaxFor method from strategy interface and get tax for sweeden
         public decimal GetTaxFor(Order order)
         {
             var destination = order.ShippingDetails.DestinationCountry.ToLowerInvariant();
