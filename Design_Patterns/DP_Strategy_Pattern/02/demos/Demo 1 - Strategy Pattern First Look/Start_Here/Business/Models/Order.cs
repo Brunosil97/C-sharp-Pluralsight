@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Strategy_Pattern_First_Look.Business.Strategies.SalesTax;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Strategy_Pattern_First_Look.Business.Models
@@ -19,28 +20,15 @@ namespace Strategy_Pattern_First_Look.Business.Models
 
         public ShippingDetails ShippingDetails { get; set; }
 
+        public ISalesTaxStrategy SalesTaxStrategy { get; set; }
+
         public decimal GetTax()
         {
-            var destination = ShippingDetails.DestinationCountry.ToLowerInvariant();
+            if (SalesTaxStrategy == null) { return 0m; }
 
-            if(destination == "sweden")
-            {
-               
-            }
-
-            if (destination == "us")
-            {
-                switch (ShippingDetails.DestinationState.ToLowerInvariant())
-                {
-                    case "la": return TotalPrice * 0.095m;
-                    case "ny": return TotalPrice * 0.04m;
-                    case "nyc": return TotalPrice * 0.045m;
-                    default: return 0m;
-                }
-            }
-
-            return 0m;
+            return SalesTaxStrategy.GetTaxFor(this);
         }
+
     }
 
     public class ShippingDetails

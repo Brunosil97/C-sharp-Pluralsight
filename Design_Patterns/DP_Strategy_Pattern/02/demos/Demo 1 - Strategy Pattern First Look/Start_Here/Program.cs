@@ -1,4 +1,5 @@
 ﻿using Strategy_Pattern_First_Look.Business.Models;
+using Strategy_Pattern_First_Look.Business.Strategies.SalesTax;
 using System;
 
 namespace Strategy_Pattern_First_Look
@@ -15,6 +16,12 @@ namespace Strategy_Pattern_First_Look
                     DestinationCountry = "Sweden"
                 }
             };
+
+            var destination = order.ShippingDetails.DestinationCountry.ToLowerInvariant();
+
+            //SET the interface to new instance of the tax classes
+            if(destination == "sweden") { order.SalesTaxStrategy = new SweedenSalesTaxStrategy(); }
+            else if(destination == "us") { order.SalesTaxStrategy = new USAStateSalesTaxStrategy(); }
             
             order.LineItems.Add(new Item("CSHARP_SMORGASBORD", "C# Smorgasbord", 100m, ItemType.Literature), 1);
             order.LineItems.Add(new Item("CONSULTING", "Building a website", 100m, ItemType.Service), 1);
