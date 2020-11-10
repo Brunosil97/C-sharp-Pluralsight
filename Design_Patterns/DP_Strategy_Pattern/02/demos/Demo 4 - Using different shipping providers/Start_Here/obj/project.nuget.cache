@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gD7RD8Rv2GOsill3kgptu5lgNDVIE//fZ5oSCUREhf8OBdf4fhVEMwdgZ1XoNj/sNUwSzIdHG+SYvC1TzuEI+A==",
+  "success": true,
+  "projectFilePath": "C:\\PluralSight\\Design_Patterns\\DP_Strategy_Pattern\\02\\demos\\Demo 4 - Using different shipping providers\\Start_Here\\Strategy Pattern Using different shipping providers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

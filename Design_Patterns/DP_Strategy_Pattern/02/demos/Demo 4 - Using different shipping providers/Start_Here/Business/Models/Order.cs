@@ -1,5 +1,6 @@
 ﻿using Strategy_Pattern_Using_different_shipping_providers.Business.Strategies.Invoice;
 using Strategy_Pattern_Using_different_shipping_providers.Business.Strategies.SalesTax;
+using Strategy_Pattern_Using_different_shipping_providers.Business.Strategies.Shipping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +27,8 @@ namespace Strategy_Pattern_Using_different_shipping_providers.Business.Models
 
         public IInvoiceStrategy InvoiceStrategy { get; set; }
 
+        public IShippingStrategy ShippingStrategy { get; set; }
+
         public decimal GetTax()
         {
             if(SalesTaxStrategy == null)
@@ -50,6 +53,8 @@ namespace Strategy_Pattern_Using_different_shipping_providers.Business.Models
             {
                 throw new Exception("Unable to finalize order");
             }
+
+            ShippingStrategy.Ship(this);
         }
     }
 

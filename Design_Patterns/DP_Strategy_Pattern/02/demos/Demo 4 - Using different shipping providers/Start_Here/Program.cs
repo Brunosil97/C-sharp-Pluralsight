@@ -17,7 +17,7 @@ namespace Strategy_Pattern_Using_different_shipping_providers
                     DestinationCountry = "Sweden"
                 },
                 SalesTaxStrategy = new SwedenSalesTaxStrategy(),
-                InvoiceStrategy = new PrintOnDemandInvoiceStrategy()
+                InvoiceStrategy = new PrintOnDemandInvoiceStrategy(),
             };
 
             order.SelectedPayments.Add(new Payment { PaymentProvider = PaymentProvider.Invoice });

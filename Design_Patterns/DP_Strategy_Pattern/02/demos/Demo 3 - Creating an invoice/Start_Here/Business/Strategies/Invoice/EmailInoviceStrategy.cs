@@ -9,7 +9,7 @@ namespace Strategy_Pattern_Creating_an_invoice.Business.Strategies.Invoice
     {
         public override void Generate(Order order)
         {
-            throw new NotImplementedException();
+            var body = GenrateTextInvoice(order);
         }
     }
 }
