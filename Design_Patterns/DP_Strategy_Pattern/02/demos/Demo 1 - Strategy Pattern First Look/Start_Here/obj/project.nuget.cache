@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FxnVN3wMc11EwcSsLp1+s463E7EJk08ilb3rY7mqK9n2u58NYuWq8kk7tq6X1hoEX4AlH5WvaBrf18QYn4U2Q==",
+  "success": true,
+  "projectFilePath": "C:\\PluralSight\\Design_Patterns\\DP_Strategy_Pattern\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

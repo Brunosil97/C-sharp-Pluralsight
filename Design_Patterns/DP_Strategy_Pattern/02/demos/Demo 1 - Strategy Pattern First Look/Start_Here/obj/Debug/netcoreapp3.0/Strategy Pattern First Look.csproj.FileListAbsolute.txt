@@ -1,0 +1,4 @@
+C:\PluralSight\Design_Patterns\DP_Strategy_Pattern\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csprojAssemblyReference.cache
+C:\PluralSight\Design_Patterns\DP_Strategy_Pattern\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\PluralSight\Design_Patterns\DP_Strategy_Pattern\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\PluralSight\Design_Patterns\DP_Strategy_Pattern\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csproj.CoreCompileInputs.cache
